@@ -70,10 +70,48 @@
   * Superficial: towards the surface
   * Deep: away from the surface
 
-<div style="display:block; margin:left; max-width:500px; margin-top:10px; margin-bottom:10px">
+<div style="display:block; margin:left; max-width:600px; margin-top:10px; margin-bottom:10px">
 
 ![directional-terms](images/directional-terms.png)
+</div>
+
+* Regions of the body
+
+<div style="text-align:center">
+
+Region | Body Part | | Region | Body Part
+------ | ------ | ------ | ------ | ------
+cephalic | head | | pelvic | pelvis
+cervical | neck | | pubis | anterior pelvis
+thoracic | chest | | inguinal | groin
+brachial | arms | | femoral | thigh
+antebrachial | forearm | | crural | anterior leg
+carpal | wrist | | sural | calf
+manual | hands | | tarsal | ankle
+abdominal | abdomen | | pedal | foot
+lumbar | lower back | | plantar | sole of foot
+gluteal | buttocks | |
 
 </div>
 
+<div style="display:block; margin:left; max-width:600px; margin-top:10px; margin-bottom:10px">
+
+![](images/body-regions.png)
+</div>
+
+* Abdominopelvic views
+
+<div style="display:block; margin:left; max-width:600px; margin-top:10px; margin-bottom:10px">
+
+![](images/abdominopelvic-sections.png)
+</div>
+
 #### Evaluate the importance of medical imaging in studying and diagnosing the body.
+
+* Imaging types
+
+  * Radiography (x-ray) - 2D image of hard or dense structures like bones or tumors
+
+  * Computerized -axial- tomography (C-a-T) - reconstructs x-rays in 3D to view cross sections
+  * Positron emission tomography (PET) - injected glucose isotopes absorbed by cells; shows glucose consumption for activities ranging from cancer to neurological disorders
+  * Magnetic responance imagine (MRI) - map the body's content of hydrogen molecules; most of which reside in water; works very well in soft tissues; shows subtle structural differences in body
